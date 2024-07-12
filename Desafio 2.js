@@ -63,7 +63,7 @@ console.log(Math.random());
 
 /* Numero random de 1 a 10 en consola
 console.log(Math.floor(Math.random()*10));
+*/
 
-
-/* Numero random de 1 a 1000 en consola
+Numero random de 1 a 1000 en consola
 console.log(Math.floor(Math.random()*1000));
